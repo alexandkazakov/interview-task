@@ -1,0 +1,12 @@
+.viewport {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 350px 1fr;
+}
+
+.content {
+  height: 100%;
+  width: 100%;
+}
